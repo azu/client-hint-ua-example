@@ -1,0 +1,31 @@
+{
+  "name": "client-hint-ua-example",
+  "version": "1.0.0",
+  "description": "",
+  "homepage": "https://github.com/azu/client-hint-ua-example",
+  "bugs": {
+    "url": "https://github.com/azu/client-hint-ua-example/issues"
+  },
+  "repository": {
+    "type": "git",
+    "url": "https://github.com/azu/client-hint-ua-example.git"
+  },
+  "license": "MIT",
+  "author": "azu",
+  "files": [
+    "bin/",
+    "lib/",
+    "src/"
+  ],
+  "main": "lib/client-hint-ua-example.js",
+  "directories": {
+    "lib": "lib",
+    "test": "test"
+  },
+  "scripts": {
+	"start": "node main.js"
+  },
+  "dependencies": {
+    "express": "^4.17.1"
+  }
+}
