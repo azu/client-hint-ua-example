@@ -1,16 +1,9 @@
 # client-hint-ua-example
 
+`Accept-CH` test for `Client Hint`
 
-
-## Install
-
-Install with [npm](https://www.npmjs.com/):
-
-    npm install client-hint-ua-example
-
-## Usage
-
-- [ ] Write usage instructions
+    npm install
+    npm start
 
 ## Changelog
 
